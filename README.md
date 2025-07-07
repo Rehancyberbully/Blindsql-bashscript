@@ -14,7 +14,7 @@ For educational purposes only (e.g., CTFs, PortSwigger Labs).
 Do not use on unauthorized systems. Always get explicit permission.
 
 bash
-./exploit.py -u https://vulnerable-site.com -t "TrackingId=123" -s "session=abc"
+./rehancyberbully.sh -u https://vulnerable-site.com -t "TrackingId=123" -s "session=abc"
 📌 Ideal for:
 
 Security researchers testing blind SQLi vulnerabilities
