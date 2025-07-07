@@ -23,3 +23,8 @@ Red teamers practicing ethical hacking
 
 Bug bounty hunters (where permitted)
 
+## 🛠 Installation & Usage
+```bash
+git clone https://github.com/Rehancyberbully/Blindsql-bashscript.git
+cd blind-sqli-exploiter
+python3 rehancyberbully.py -u https://test-site.com -t "TrackingId=123" -s "session=abc"
